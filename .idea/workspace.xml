@@ -1,45 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="DefaultGradleProjectSettings">
-    <option name="isMigrated" value="true" />
+  <component name="ChangeListManager">
+    <list default="true" id="fe923e6a-4ccb-441b-8c0f-1c5ba07ea5b5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="GradleLocalSettings">
-    <option name="projectSyncType">
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1RysKO9yfNxatALstez1uv7fSsZ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe923e6a-4ccb-441b-8c0f-1c5ba07ea5b5" name="Default Changelist" comment="" />
+      <created>1570650605411</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570650605411</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
       <map>
-        <entry key="D:/AFPCORE/pruebasAceptacionAFPCore" value="PREVIEW" />
-        <entry key="D:/AFPCORE/pruebasAceptacionAFPCore-version2" value="PREVIEW" />
-        <entry key="D:/Id inconsistencias/IdentificadorIncosistencias" value="PREVIEW" />
-        <entry key="D:/Identificador inconsistencias/identificadorinconsistencias" value="PREVIEW" />
-        <entry key="D:/Inconsistencias/ProyectoIdentificadorInconsistencias" value="PREVIEW" />
-        <entry key="D:/Mis documentos/IdentificadorIncosistencias" value="PREVIEW" />
-        <entry key="D:/Nueva identificador inconsistencias/IdentificadorIncosistencias/IdentificadorIncosistencias" value="PREVIEW" />
-        <entry key="D:/ProyectoEjemplo/proyectobase" value="PREVIEW" />
-        <entry key="D:/ProyectoEjemplo/proyectocapacitacionsesion1" value="PREVIEW" />
-        <entry key="D:/ProyectoSantiago/formacionengrupo" value="PREVIEW" />
-        <entry key="D:/proyectoBaseScreenPlay/choucair-academy--master" value="PREVIEW" />
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
       </map>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1038" />
-    <option name="y" value="406" />
-    <option name="width" value="340" />
-    <option name="height" value="307" />
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.20146905" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
