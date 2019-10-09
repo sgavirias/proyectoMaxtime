@@ -1,29 +1,276 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fe923e6a-4ccb-441b-8c0f-1c5ba07ea5b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    <list default="true" id="a3e1077e-b6bf-4b88-bf73-062172772478" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/choucair/formacion/definition/ProyectoMaxtimeDefinition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/choucair/formacion/pageobjects/ProyectoMaxtimePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/choucair/formacion/steps/ProyectoMaxtimeSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/Features/proyectoMaxtime.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/evidencia/21022018_C03/00f24273c27f2d83468033d6e7e4c2912dce65cc1bb78d2169db19ae51f2a414.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/evidencia/21022018_C03/0749da1602cd29c647d3feaaad35190bd692fa7511ec3f421efa6669a9abc2c5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/evidencia/21022018_C03/1d3c319dfaa6bc5a8b4e300fd8889a9ab1f659c322371d16d8973aa2f131f898.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/evidencia/21022018_C03/27892638ba8e928eaff2a33aa6cc07296f57cc09d4ce6e53e4010f08630e6306.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/evidencia/21022018_C03/3261d306821a4460e5aa948b7daed275ec70f0a4b39f5992ad62f1a0b185626d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/evidencia/21022018_C03/365194052c15ebbb60900751cd4d362328a4882ceffbf3b178340577f6daf1d8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/evidencia/21022018_C03/4081ab1e5adc9c747d052b00565cca91b83c52f48ab4c2c9197186a63674dfa5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/evidencia/21022018_C03/77f54109118c78b0cf775ee006337f7aeb039c637394dfb0608fe82a16706145.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/evidencia/21022018_C03/824a5796c32a98055b50459c75fb1e22dd865282b8cd65da2286724a153b4291.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/evidencia/21022018_C03/SERENITY-JUNIT-realizar-proceso-de-maxtime_realizar-el-registro-de-horas-en-maxtime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/evidencia/21022018_C03/be5995d98ce3d9a1c0b1287f63fa255f778da5538362838af668b3fa099d4be2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/evidencia/21022018_C03/c858179124dc61a156a1719e20921f223ddd49002d2597870ae14188eef430f0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/evidencia/21022018_C03/da670cf619df1f95f0154343c417ff1ad222459a738cda2245f6df92bd3c8942.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/evidencia/21022018_C03/edfb2ec1edba70145e232e014c50fbe3369f2f3af91af51343d2e191a52f4c5f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/evidencia/21022018_C03/f11734004bcb0688fc2e7c322124cd0ce54eb4d2fa7ea9b9fa0974b5ad06edc9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/evidencia/21022018_C03/f41e3396fa69e3359fbd2c17aefe5cee1883e65f41beb7ea590698f2c85baf23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/evidencia/21022018_C03/pagesource1393597323612354048.html.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/evidencia/21022018_C03/pagesource1448455224126963488.html.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/evidencia/21022018_C03/pagesource2207070013253657324.html.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/evidencia/21022018_C03/pagesource2418542886307002177.html.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/evidencia/21022018_C03/pagesource2674371587967077266.html.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/evidencia/21022018_C03/pagesource2980026761406560075.html.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/evidencia/21022018_C03/pagesource3631203927141806622.html.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/evidencia/21022018_C03/pagesource3951276176305773114.html.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/evidencia/21022018_C03/pagesource4352907910982387789.html.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/evidencia/21022018_C03/pagesource4469230748640475372.html.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/evidencia/21022018_C03/pagesource4767203370502809520.html.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/evidencia/21022018_C03/pagesource4873109023148761859.html.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/evidencia/21022018_C03/pagesource5011573807870884570.html.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/evidencia/21022018_C03/pagesource5026612203150534185.html.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/evidencia/21022018_C03/pagesource5337478022523119500.html.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/evidencia/21022018_C03/pagesource5928617591288788692.html.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/evidencia/21022018_C03/pagesource7157202573887824868.html.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/evidencia/21022018_C03/pagesource7172358047658828440.html.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/evidencia/21022018_C03/pagesource7668858062227214061.html.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/evidencia/21022018_C03/pagesource8004925160890077770.html.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/evidencia/21022018_C03/pagesource8459455836311404050.html.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/evidencia/21022018_C03/pagesource8928184098364272349.html.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/evidencia/21022018_C03/realizar-proceso-de-maxtime_realizar-el-registro-de-horas-en-maxtime.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/evidencia/21022018_C03/realizar-proceso-de-maxtime_realizar-el-registro-de-horas-en-maxtime.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/evidencia/21022018_C03/realizar-proceso-de-maxtime_realizar-el-registro-de-horas-en-maxtime_screenshots.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/evidencia/21022018_C03/scaled_0749da1602cd29c647d3feaaad35190bd692fa7511ec3f421efa6669a9abc2c5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/evidencia/21022018_C03/scaled_1d3c319dfaa6bc5a8b4e300fd8889a9ab1f659c322371d16d8973aa2f131f898.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/evidencia/21022018_C03/scaled_27892638ba8e928eaff2a33aa6cc07296f57cc09d4ce6e53e4010f08630e6306.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/evidencia/21022018_C03/scaled_3261d306821a4460e5aa948b7daed275ec70f0a4b39f5992ad62f1a0b185626d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/evidencia/21022018_C03/scaled_365194052c15ebbb60900751cd4d362328a4882ceffbf3b178340577f6daf1d8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/evidencia/21022018_C03/scaled_4081ab1e5adc9c747d052b00565cca91b83c52f48ab4c2c9197186a63674dfa5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/evidencia/21022018_C03/scaled_77f54109118c78b0cf775ee006337f7aeb039c637394dfb0608fe82a16706145.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/evidencia/21022018_C03/scaled_824a5796c32a98055b50459c75fb1e22dd865282b8cd65da2286724a153b4291.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/evidencia/21022018_C03/scaled_be5995d98ce3d9a1c0b1287f63fa255f778da5538362838af668b3fa099d4be2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/evidencia/21022018_C03/scaled_c858179124dc61a156a1719e20921f223ddd49002d2597870ae14188eef430f0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/evidencia/21022018_C03/scaled_da670cf619df1f95f0154343c417ff1ad222459a738cda2245f6df92bd3c8942.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/evidencia/21022018_C03/scaled_edfb2ec1edba70145e232e014c50fbe3369f2f3af91af51343d2e191a52f4c5f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/evidencia/21022018_C03/scaled_f11734004bcb0688fc2e7c322124cd0ce54eb4d2fa7ea9b9fa0974b5ad06edc9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/site/evidencia/21022018_C03/scaled_f41e3396fa69e3359fbd2c17aefe5cee1883e65f41beb7ea590698f2c85baf23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Features/proyectoMaxtime.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/choucair/formacion/definition/ProyectoMaxtimeDefinition.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/choucair/formacion/pageobjects/ProyectoMaxtimePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/choucair/formacion/steps/ProyectoMaxtimeSteps.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/choucair/formacion/RunnerFeatures.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/choucair/formacion/RunnerFeatures.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_C03/browser-chrome.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/evidencia/21022018_C03/browser-chrome.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Features/regdoctor.Feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/choucair/formacion/RunnerFeatures.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/choucair/formacion/RunnerFeatures.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/choucair/formacion/definition/regCitaDefinitions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/choucair/formacion/definition/regPacienteDefinitions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/choucair/formacion/definition/regdoctorDefinitions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/choucair/formacion/pageobjects/regdoctorPageObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/choucair/formacion/steps/regPacienteSteps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/choucair/formacion/steps/regcitasSteps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/choucair/formacion/steps/regdoctorSteps.class" beforeDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/Features/proyectoMaxtime.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/choucair/formacion/RunnerFeatures.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/choucair/formacion/definition/ProyectoMaxtimeDefinition.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#487#488#0" expanded="true" />
+                <element signature="e#524#525#0" expanded="true" />
+                <element signature="e#606#607#0" expanded="true" />
+                <element signature="e#641#642#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/choucair/formacion/steps/ProyectoMaxtimeSteps.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/choucair/formacion/pageobjects/ProyectoMaxtimePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="248">
+              <caret line="65" column="90" selection-start-line="65" selection-start-column="90" selection-end-line="65" selection-end-column="90" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/Datadriven/badeDatos.csv">
+          <provider editor-type-id="csv-text-editor" />
+          <provider selected="true" editor-type-id="csv-table-editor">
+            <state showInfoPanel="true" fixedHeaders="false" rowLines="3">
+              <column index="0" width="100" />
+              <column index="1" width="100" />
+              <column index="2" width="100" />
+              <column index="3" width="100" />
+              <column index="4" width="100" />
+              <column index="5" width="100" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1RysKO9yfNxatALstez1uv7fSsZ" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/resources/Features/proyectoMaxtime.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/com/choucair/formacion/RunnerFeatures.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/choucair/formacion/definition/proyectoMaxtimeDefinition.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/choucair/formacion/definition/ProyectoMaxtimeDefinition.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/choucair/formacion/steps/ProyectoMaxtimeSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/choucair/formacion/pageobjects/ProyectoMaxtimePage.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="285" />
+    <option name="width" value="1088" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="com.choucair.formacion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.choucair.base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.choucair.formacion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.choucair.base" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.choucair.formacion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.choucair.base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.choucair.formacion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.choucair.base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.choucair.formacion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.choucair.base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.choucair.formacion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.choucair.base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="formacion" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.choucair.formacion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.choucair.base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.choucair.formacion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.choucair.base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="Datadriven" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="D:/EjercicioElColombiano/com.choucair.base" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -37,31 +284,213 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="RunnerFeatures" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.choucair.formacion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.choucair.formacion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.choucair.formacion" />
+      <option name="MAIN_CLASS_NAME" value="com.choucair.formacion.RunnerFeatures" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RunnerFeatures" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fe923e6a-4ccb-441b-8c0f-1c5ba07ea5b5" name="Default Changelist" comment="" />
-      <created>1570650605411</created>
+      <changelist id="a3e1077e-b6bf-4b88-bf73-062172772478" name="Default Changelist" comment="" />
+      <created>1570627261170</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1570650605411</updated>
+      <updated>1570627261170</updated>
     </task>
     <servers />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
+  <component name="TestHistory">
+    <history-entry file="RunnerFeatures - 2019.10.09 at 14h 11m 24s.xml">
+      <configuration name="RunnerFeatures" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunnerFeatures - 2019.10.09 at 14h 11m 50s.xml">
+      <configuration name="RunnerFeatures" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunnerFeatures - 2019.10.09 at 14h 21m 46s.xml">
+      <configuration name="RunnerFeatures" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunnerFeatures - 2019.10.09 at 14h 24m 02s.xml">
+      <configuration name="RunnerFeatures" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunnerFeatures - 2019.10.09 at 14h 27m 30s.xml">
+      <configuration name="RunnerFeatures" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunnerFeatures - 2019.10.09 at 14h 28m 14s.xml">
+      <configuration name="RunnerFeatures" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunnerFeatures - 2019.10.09 at 14h 32m 25s.xml">
+      <configuration name="RunnerFeatures" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunnerFeatures - 2019.10.09 at 14h 37m 56s.xml">
+      <configuration name="RunnerFeatures" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunnerFeatures - 2019.10.09 at 14h 40m 35s.xml">
+      <configuration name="RunnerFeatures" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunnerFeatures - 2019.10.09 at 14h 41m 19s.xml">
+      <configuration name="RunnerFeatures" configurationId="JUnit" />
+    </history-entry>
   </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  <component name="ToolWindowManager">
+    <frame x="285" y="0" width="1088" height="735" extended-state="0" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24902724" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32890365" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.33388704" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32890365" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3986711" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.24962178" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.3289689" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Debug" order="7" visible="true" weight="0.39934534" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/resources/Features/proyectoMaxtime.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/choucair/formacion/RunnerFeatures.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/choucair/formacion/definition/ProyectoMaxtimeDefinition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#487#488#0" expanded="true" />
+            <element signature="e#524#525#0" expanded="true" />
+            <element signature="e#606#607#0" expanded="true" />
+            <element signature="e#641#642#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/choucair/formacion/steps/ProyectoMaxtimeSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/cglib/cglib/3.2.5/cglib-3.2.5-sources.jar!/net/sf/cglib/proxy/MethodProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="228" selection-start-line="228" selection-end-line="228" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/choucair/formacion/pageobjects/ProyectoMaxtimePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="65" column="90" selection-start-line="65" selection-start-column="90" selection-end-line="65" selection-end-column="90" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/Datadriven/badeDatos.csv">
+      <provider editor-type-id="csv-text-editor" />
+      <provider selected="true" editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3">
+          <column index="0" width="100" />
+          <column index="1" width="100" />
+          <column index="2" width="100" />
+          <column index="3" width="100" />
+          <column index="4" width="100" />
+          <column index="5" width="100" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20146905" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
