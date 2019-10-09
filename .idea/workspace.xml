@@ -1,30 +1,382 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a3e1077e-b6bf-4b88-bf73-062172772478" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/choucair/formacion/definition/ProyectoMaxtimeDefinition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/choucair/formacion/pageobjects/ProyectoMaxtimePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/choucair/formacion/steps/ProyectoMaxtimeSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/Features/proyectoMaxtime.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/choucair/formacion/RunnerFeatures.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/choucair/formacion/RunnerFeatures.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/evidencia/21022018_C03/browser-chrome.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/evidencia/21022018_C03/browser-chrome.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Features/regdoctor.Feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/choucair/formacion/RunnerFeatures.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/choucair/formacion/RunnerFeatures.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/choucair/formacion/definition/regCitaDefinitions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/choucair/formacion/definition/regPacienteDefinitions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/choucair/formacion/definition/regdoctorDefinitions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/choucair/formacion/pageobjects/regdoctorPageObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/choucair/formacion/steps/regPacienteSteps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/choucair/formacion/steps/regcitasSteps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/choucair/formacion/steps/regdoctorSteps.class" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
-  <component name="GradleLocalSettings">
-    <option name="projectSyncType">
-      <map>
-        <entry key="D:/AFPCORE/pruebasAceptacionAFPCore" value="PREVIEW" />
-        <entry key="D:/AFPCORE/pruebasAceptacionAFPCore-version2" value="PREVIEW" />
-        <entry key="D:/Id inconsistencias/IdentificadorIncosistencias" value="PREVIEW" />
-        <entry key="D:/Identificador inconsistencias/identificadorinconsistencias" value="PREVIEW" />
-        <entry key="D:/Inconsistencias/ProyectoIdentificadorInconsistencias" value="PREVIEW" />
-        <entry key="D:/Mis documentos/IdentificadorIncosistencias" value="PREVIEW" />
-        <entry key="D:/Nueva identificador inconsistencias/IdentificadorIncosistencias/IdentificadorIncosistencias" value="PREVIEW" />
-        <entry key="D:/ProyectoEjemplo/proyectobase" value="PREVIEW" />
-        <entry key="D:/ProyectoEjemplo/proyectocapacitacionsesion1" value="PREVIEW" />
-        <entry key="D:/ProyectoSantiago/formacionengrupo" value="PREVIEW" />
-        <entry key="D:/proyectoBaseScreenPlay/choucair-academy--master" value="PREVIEW" />
-      </map>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/Features/proyectoMaxtime.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/choucair/formacion/RunnerFeatures.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/choucair/formacion/definition/ProyectoMaxtimeDefinition.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#487#488#0" expanded="true" />
+                <element signature="e#524#525#0" expanded="true" />
+                <element signature="e#606#607#0" expanded="true" />
+                <element signature="e#641#642#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/choucair/formacion/steps/ProyectoMaxtimeSteps.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/choucair/formacion/pageobjects/ProyectoMaxtimePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="248">
+              <caret line="65" column="90" selection-start-line="65" selection-start-column="90" selection-end-line="65" selection-end-column="90" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1038" />
-    <option name="y" value="406" />
-    <option name="width" value="340" />
-    <option name="height" value="307" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/resources/Features/proyectoMaxtime.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/com/choucair/formacion/RunnerFeatures.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/choucair/formacion/definition/proyectoMaxtimeDefinition.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/choucair/formacion/definition/ProyectoMaxtimeDefinition.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/choucair/formacion/steps/ProyectoMaxtimeSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/choucair/formacion/pageobjects/ProyectoMaxtimePage.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="285" />
+    <option name="width" value="1088" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="com.choucair.formacion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.choucair.base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.choucair.formacion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.choucair.base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.choucair.formacion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.choucair.base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.choucair.formacion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.choucair.base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.choucair.formacion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.choucair.base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="formacion" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="com.choucair.formacion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="com.choucair.base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="D:/EjercicioElColombiano/com.choucair.base" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="RunnerFeatures" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.choucair.formacion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.choucair.formacion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.choucair.formacion" />
+      <option name="MAIN_CLASS_NAME" value="com.choucair.formacion.RunnerFeatures" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RunnerFeatures" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3e1077e-b6bf-4b88-bf73-062172772478" name="Default Changelist" comment="" />
+      <created>1570627261170</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570627261170</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="RunnerFeatures - 2019.10.09 at 14h 08m 45s.xml">
+      <configuration name="RunnerFeatures" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunnerFeatures - 2019.10.09 at 14h 10m 43s.xml">
+      <configuration name="RunnerFeatures" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunnerFeatures - 2019.10.09 at 14h 11m 24s.xml">
+      <configuration name="RunnerFeatures" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunnerFeatures - 2019.10.09 at 14h 11m 50s.xml">
+      <configuration name="RunnerFeatures" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunnerFeatures - 2019.10.09 at 14h 21m 46s.xml">
+      <configuration name="RunnerFeatures" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunnerFeatures - 2019.10.09 at 14h 24m 02s.xml">
+      <configuration name="RunnerFeatures" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunnerFeatures - 2019.10.09 at 14h 27m 30s.xml">
+      <configuration name="RunnerFeatures" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunnerFeatures - 2019.10.09 at 14h 28m 14s.xml">
+      <configuration name="RunnerFeatures" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunnerFeatures - 2019.10.09 at 14h 32m 25s.xml">
+      <configuration name="RunnerFeatures" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunnerFeatures - 2019.10.09 at 14h 37m 56s.xml">
+      <configuration name="RunnerFeatures" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="285" y="0" width="1088" height="735" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24962178" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.33388704" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32890365" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3986711" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.24962178" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.3289689" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Debug" order="7" visible="true" weight="0.39934534" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/resources/Features/proyectoMaxtime.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/choucair/formacion/RunnerFeatures.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/choucair/formacion/definition/ProyectoMaxtimeDefinition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#487#488#0" expanded="true" />
+            <element signature="e#524#525#0" expanded="true" />
+            <element signature="e#606#607#0" expanded="true" />
+            <element signature="e#641#642#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/choucair/formacion/steps/ProyectoMaxtimeSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/cglib/cglib/3.2.5/cglib-3.2.5-sources.jar!/net/sf/cglib/proxy/MethodProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="228" selection-start-line="228" selection-end-line="228" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/choucair/formacion/pageobjects/ProyectoMaxtimePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="65" column="90" selection-start-line="65" selection-start-column="90" selection-end-line="65" selection-end-column="90" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
