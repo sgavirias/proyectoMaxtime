@@ -30,11 +30,11 @@ public class ProyectoMaxtimePage extends PageObject {
     @FindBy(xpath = "//div[@id='Vertical_v3_MainLayoutView_xaf_l103_xaf_dviReporteDetallado_ToolBar_Menu_DXI0_T']")
     WebElementFacade btnNuevo;
 
-    @FindBy(xpath = "//td[@id='Vertical_v8_MainLayoutEdit_xaf_l128_xaf_dviProyecto_Edit_Find_B']")
+    @FindBy(xpath = "//td[@class='HItem FirstColumn GroupContent']//div[4]//table[contains(@title,'Buscar')]")
                      //td[@id='Vertical_v11_MainLayoutEdit_xaf_l135_xaf_dviProyecto_Edit_Find_B']
     WebElementFacade btnProyecto;
 
-    @FindBy(xpath = "//*[contains(@id, 'Dialog_v9_LE_v10_DXSelBtn1_D')]")
+    @FindBy(xpath = "//td[contains(@id, 'Dialog')]//*[text() = 'Varios Choucair  Medellín Choucair']")
     WebElementFacade checkCodigoCliente;
 
     @FindBy(xpath = "//div[@id='Dialog_actionContainerHolder_Menu_DXI0_T']")
