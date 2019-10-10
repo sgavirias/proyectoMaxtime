@@ -61,7 +61,7 @@ public class ProyectoMaxtimePage extends PageObject {
     @FindBy(xpath = "//td[@id='Dialog_v11_LE_v12_tccell0_0']")
     WebElementFacade btnNombServicio;
 
-    @FindBy(xpath = "//td[@id='Vertical_v8_MainLayoutEdit_xaf_l158_xaf_dviActividad_Edit_DD_B-1']")
+    @FindBy(xpath = "//td[@class = 'dxbButton_Office2010Blue'][@xpath = '1']")
     WebElementFacade btnActividad;
 
     @FindBy(xpath = "//td[@id='Vertical_v8_MainLayoutEdit_xaf_l158_xaf_dviActividad_Edit_DD_DDD_L_LBI3T0']")

@@ -70,8 +70,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/choucair/formacion/pageobjects/ProyectoMaxtimePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="106">
-              <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+            <state relative-caret-position="-1233">
+              <caret line="32" column="41" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -233,9 +233,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RunnerFeatures - 2019.10.09 at 16h 06m 14s.xml">
-      <configuration name="RunnerFeatures" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="RunnerFeatures - 2019.10.09 at 16h 07m 21s.xml">
       <configuration name="RunnerFeatures" configurationId="JUnit" />
     </history-entry>
@@ -263,12 +260,14 @@
     <history-entry file="RunnerFeatures - 2019.10.10 at 08h 15m 54s.xml">
       <configuration name="RunnerFeatures" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="RunnerFeatures - 2019.10.10 at 08h 16m 58s.xml">
+      <configuration name="RunnerFeatures" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.7027027" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.7019667" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -277,12 +276,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.324" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39770868" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32242227" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39770868" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32405892" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32405892" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.33387887" />
@@ -329,19 +328,19 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/com/choucair/formacion/pageobjects/ProyectoMaxtimePage.java</url>
-          <line>101</line>
+          <line>102</line>
           <properties />
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/com/choucair/formacion/pageobjects/ProyectoMaxtimePage.java</url>
-          <line>114</line>
+          <line>115</line>
           <properties />
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/com/choucair/formacion/pageobjects/ProyectoMaxtimePage.java</url>
-          <line>112</line>
+          <line>113</line>
           <properties />
           <option name="timeStamp" value="12" />
         </line-breakpoint>
@@ -424,8 +423,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/choucair/formacion/pageobjects/ProyectoMaxtimePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-163">
-          <caret line="94" column="47" selection-start-line="94" selection-start-column="47" selection-end-line="94" selection-end-column="47" />
+        <state relative-caret-position="-1233">
+          <caret line="32" column="41" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
