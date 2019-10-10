@@ -1,17 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="realizar proceso de maxtime" skipped="0" tests="1" time="34.89" timestamp="2019-10-09T14:40:41.300-05:00[America/Bogota]"><testcase name="realizar el registro de horas en maxtime"><error message="The following error occurred: No frame element found by name or id PopupWindowCallbackPanel_PopupWindow64692086_CIF-1&#10;Build info: version: '3.5.2', revision: '10229a9', time: '2017-08-21T17:29:55.15Z'&#10;System info: host: 'CHMEPPF0HFPV2', ip: '172.17.27.88', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'&#10;Driver info: driver.version: unknown&#10;Build info: version: '3.5.2', revision: '10229a9', time: '2017-08-21T17:29:55.15Z'&#10;System info: host: 'CHMEPPF0HFPV2', ip: '172.17.27.88', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'&#10;Driver info: driver.version: unknown" type="org.openqa.selenium.NoSuchFrameException">The following error occurred: No frame element found by name or id PopupWindowCallbackPanel_PopupWindow64692086_CIF-1
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="realizar proceso de maxtime" skipped="0" tests="1" time="33.8" timestamp="2019-10-10T08:16:19.890-05:00[America/Bogota]"><testcase name="realizar el registro de horas en maxtime"><error message="The following error occurred: Timed out after 10 seconds. Element not found&#10;For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.5.2', revision: '10229a9', time: '2017-08-21T17:29:55.15Z'&#10;System info: host: 'CHMEPPF0HFPV2', ip: '172.17.27.88', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'&#10;Driver info: driver.version: unknown&#10;For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.5.2', revision: '10229a9', time: '2017-08-21T17:29:55.15Z'&#10;System info: host: 'CHMEPPF0HFPV2', ip: '172.17.27.88', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'&#10;Driver info: driver.version: unknown" type="org.openqa.selenium.NoSuchElementException">The following error occurred: Timed out after 10 seconds. Element not found
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '3.5.2', revision: '10229a9', time: '2017-08-21T17:29:55.15Z'
 System info: host: 'CHMEPPF0HFPV2', ip: '172.17.27.88', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
 Driver info: driver.version: unknown
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '3.5.2', revision: '10229a9', time: '2017-08-21T17:29:55.15Z'
 System info: host: 'CHMEPPF0HFPV2', ip: '172.17.27.88', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
-Driver info: driver.version: unknown</error><system-err>The following error occurred: No frame element found by name or id PopupWindowCallbackPanel_PopupWindow64692086_CIF-1
+Driver info: driver.version: unknown</error><system-err>The following error occurred: Timed out after 10 seconds. Element not found
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '3.5.2', revision: '10229a9', time: '2017-08-21T17:29:55.15Z'
 System info: host: 'CHMEPPF0HFPV2', ip: '172.17.27.88', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
 Driver info: driver.version: unknown
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '3.5.2', revision: '10229a9', time: '2017-08-21T17:29:55.15Z'
 System info: host: 'CHMEPPF0HFPV2', ip: '172.17.27.88', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
 Driver info: driver.version: unknown&#13;
-com.choucair.formacion.pageobjects.ProyectoMaxtimePage.informacion(ProyectoMaxtimePage.java:66)&#13;
+com.choucair.formacion.pageobjects.ProyectoMaxtimePage.informacion(ProyectoMaxtimePage.java:95)&#13;
 com.choucair.formacion.steps.ProyectoMaxtimeSteps.informacion(ProyectoMaxtimeSteps.java:16)&#13;
 com.choucair.formacion.definition.ProyectoMaxtimeDefinition.registro_las_horas(ProyectoMaxtimeDefinition.java:24)&#13;
 </system-err></testcase></testsuite>
